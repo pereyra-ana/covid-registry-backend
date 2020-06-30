@@ -70,7 +70,7 @@
 				<version>2.2.0</version>
 				<configuration>
 					<deploy.projectId>covid-check-281719</deploy.projectId>
-					<deploy.version>10</deploy.version>
+					<deploy.version>11</deploy.version>
 				</configuration>
 			</plugin>
 		</plugins>
